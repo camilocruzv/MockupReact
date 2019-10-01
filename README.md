@@ -20,6 +20,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### Result
+
+![Result](https://user-images.githubusercontent.com/38144641/65975997-18ae8180-e435-11e9-93a4-c3a454e14e42.JPG)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
